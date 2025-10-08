@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+SpeechRecognition
+pyttsx3
+google-cloud-firestore
+pyaudio
